@@ -1,5 +1,10 @@
 ## Your GitHub Learning Lab Repository for Communicating Using Markdown
 
+# This is an <h1> header, which is the largest
+## This is an <h2> header
+###### This is an <h6> header, which is the smallest
+  
+  
 Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through.
 
 Oh! I haven't introduced myself...
